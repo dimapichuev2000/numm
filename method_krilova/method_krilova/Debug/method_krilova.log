@@ -1,0 +1,10 @@
+﻿  method_krilova.cpp
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(22,25): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(23,26): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(24,27): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(56,21): warning C4244:  =: преобразование "int" в "_Ty", возможна потеря данных
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(56,21): warning C4244:         with
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(56,21): warning C4244:         [
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(56,21): warning C4244:             _Ty=float
+C:\Users\dima_\source\repos\method_krilova\method_krilova\method_krilova.cpp(56,21): warning C4244:         ]
+  method_krilova.vcxproj -> C:\Users\dima_\source\repos\method_krilova\Debug\method_krilova.exe

@@ -1,0 +1,11 @@
+﻿  Dif_urav.cpp
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(28,12): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(50,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(63,15): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(65,12): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(86,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(99,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(119,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(137,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\dima_\source\repos\Dif_urav\Dif_urav\Dif_urav.cpp(152,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Dif_urav.vcxproj -> C:\Users\dima_\source\repos\Dif_urav\Debug\Dif_urav.exe
