@@ -1,0 +1,3 @@
+﻿  2_search.cpp
+C:\Users\dima_\OneDrive\Desktop\Новая папка\numm\2_search\2_search\2_search.cpp(15,18): warning C4305:  инициализация: усечение из "double" в "float"
+  2_search.vcxproj -> C:\Users\dima_\OneDrive\Desktop\Новая папка\numm\2_search\Debug\2_search.exe
