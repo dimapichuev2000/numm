@@ -1,0 +1,3 @@
+﻿  meth_Sims.cpp
+C:\Users\dima_\OneDrive\Desktop\Новая папка\numm\meth_Sims\meth_Sims\meth_Sims.cpp(43,21): warning C4305:  инициализация: усечение из "double" в "float"
+  meth_Sims.vcxproj -> C:\Users\dima_\OneDrive\Desktop\Новая папка\numm\meth_Sims\Debug\meth_Sims.exe

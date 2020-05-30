@@ -15,7 +15,7 @@ float f2(float x) {
 
 // вторая производная функции f1
 float f1_xx(float x) {
-	return (2 * pow(x, 2) - 9) / pow((pow(x, 2) + 9), 5 / 2);
+	return -((2 * pow(x, 2) - 9) / pow((pow(x, 2) + 9), 5 / 2));
 }
 
 // функция вернула 8.935..., следовательно за max можно взять значение 9
@@ -71,7 +71,7 @@ int main()
 	float a = 0.3;
 	float b = 1.3;
 	const float eps = 0.001;
-	float max =9;
+	float max = 9;
 	cout << trapezoid_method(a, b, eps, max) << endl;
 	float a1 = 1.6;
 	float b1 = 2.4;
