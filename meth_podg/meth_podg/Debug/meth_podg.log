@@ -1,0 +1,3 @@
+﻿  meth_progon.cpp
+C:\Users\dima_\source\repos\meth_podg\meth_podg\meth_progon.cpp(11,16): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+  meth_podg.vcxproj -> C:\Users\dima_\source\repos\meth_podg\Debug\meth_progon.exe
